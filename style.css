@@ -805,7 +805,7 @@ h5 {
 	position: relative;
 	z-index: 1;
 	text-align: center;
-	background: url(../img/slider-1.jpg);
+	background: url(slider-1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -1107,7 +1107,7 @@ h5 {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url(../img/banner-bg.jpg);
+  background-image: url(banner-bg.jpg);
   z-index: 1;
   text-align: center;
   position: relative;
@@ -1257,7 +1257,7 @@ h5 {
 .menu-day-area {
 	position: relative;
 	z-index: 1;
-	background: url(../img/menu-bg.png);
+	background: url(menu-bg.png);
 	background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1406,7 +1406,7 @@ h5 {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url(../img/reservation-bg.jpg);
+  background-image: url(reservation-bg.jpg);
   z-index: 1;
   text-align: center;
   position: relative;
@@ -1661,7 +1661,7 @@ h5 {
 	position: relative;
 	color: #fff;
 	text-align: center;
-	background: url(../img/review-bg.jpg);
+	background: url(review-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -2013,7 +2013,7 @@ h5 {
 .contact-area {
   position: relative;
   z-index: 1;
-  background-image: url(../img/contact-bg.jpg);
+  background-image: url(contact-bg.jpg);
   background-attachment: fixed;
   background-position: top;
   background-size: cover;
