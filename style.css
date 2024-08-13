@@ -2017,6 +2017,7 @@ h5 {
   background-attachment: fixed;
   background-position: top;
   background-size: cover;
+  padding-bottom: 5%;
 }
 
 .contact-area::before {
